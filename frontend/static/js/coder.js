@@ -9,7 +9,7 @@ var globalDockerImage = ""
 var globalRole = ""
 var globalAppInfo = {}
 var codeMirror
-var apiUrl = "http://127.0.0.1:8081"
+var apiUrl = "http://192.168.1.109:8081"
 
 var _hmt = _hmt || [];
 (function() {
